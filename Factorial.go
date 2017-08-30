@@ -13,8 +13,6 @@ func factorial(a int) int{
 }
 
 func main() {
-//	var input int;
-	
 	fmt.Println("Factorial is",factorial(4));
 }
 
