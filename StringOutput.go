@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	"strings"
+	"bufio"
+	"os"
 )
 
 func main(){
