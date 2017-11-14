@@ -15,12 +15,15 @@ func main() {
 func euclideanDenominator(a int,b int){
 
 	fmt.Println("function")
-	var temp int
+//	var i=a-b
+	for a-b!=0{ //while{
+
+	if a-b==0 || a==b{
+	  fmt.Println("Denominator is ", b) }
+
 	if a<b{
-		temp=b
-		b=a
-		a=temp
-	}
+		b, a = a, b //swap elements }
 
-
+  }
+  }
 }
