@@ -23,7 +23,6 @@ func euclideanDenominator(a int,b int){
 
 	if a<b{
 		b, a = a, b //swap elements }
-
   }
   }
 }
