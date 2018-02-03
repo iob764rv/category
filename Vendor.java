@@ -14,7 +14,6 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import inventarium.MainApp;
 import inventarium.data.DataRequest;
-import inventarium.model.Product;
 import inventarium.model.Vendor;
 
 public class VendorOverviewController {
