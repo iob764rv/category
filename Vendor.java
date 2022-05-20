@@ -126,7 +126,6 @@ public class VendorOverviewController {
 			zipLabel.setText("");
 		}
 	}
-
 	/**
 	 * Called when the user clicks on the delete button.
 	 */
