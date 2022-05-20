@@ -160,7 +160,6 @@ public class VendorOverviewController {
 	            .showWarning();
 	    }
 	}
-
 	/**
 	 * Called when the user clicks the new button. Opens a dialog to edit
 	 * details for a new vendor.
